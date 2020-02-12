@@ -15,9 +15,9 @@ $ cd vscode-installer
 $ chmod a+x install.sh
 ```
 
-#### Run it
+#### Run it as root
 ```shell
-$ ./install.sh
+$ sudo ./install.sh
 ```
 
 #### Enjoy!
